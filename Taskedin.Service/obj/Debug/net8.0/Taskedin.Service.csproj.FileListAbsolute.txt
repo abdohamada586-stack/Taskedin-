@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Taskedin\Taskedin.Service\bin\Debug\net8.0\Taskedin.Service.deps.json
+C:\Users\user\source\repos\Taskedin\Taskedin.Service\bin\Debug\net8.0\Taskedin.Service.dll
+C:\Users\user\source\repos\Taskedin\Taskedin.Service\bin\Debug\net8.0\Taskedin.Service.pdb
+C:\Users\user\source\repos\Taskedin\Taskedin.Service\bin\Debug\net8.0\Taskedin.Domain.dll
+C:\Users\user\source\repos\Taskedin\Taskedin.Service\bin\Debug\net8.0\Taskedin.Persistence.dll
+C:\Users\user\source\repos\Taskedin\Taskedin.Service\bin\Debug\net8.0\Taskedin.Domain.pdb
+C:\Users\user\source\repos\Taskedin\Taskedin.Service\bin\Debug\net8.0\Taskedin.Persistence.pdb
+C:\Users\user\source\repos\Taskedin\Taskedin.Service\obj\Debug\net8.0\Taskedin.Service.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Taskedin\Taskedin.Service\obj\Debug\net8.0\Taskedin.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Taskedin\Taskedin.Service\obj\Debug\net8.0\Taskedin.Service.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Taskedin\Taskedin.Service\obj\Debug\net8.0\Taskedin.Service.AssemblyInfo.cs
+C:\Users\user\source\repos\Taskedin\Taskedin.Service\obj\Debug\net8.0\Taskedin.Service.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Taskedin\Taskedin.Service\obj\Debug\net8.0\Taskedin.DE056605.Up2Date
+C:\Users\user\source\repos\Taskedin\Taskedin.Service\obj\Debug\net8.0\Taskedin.Service.dll
+C:\Users\user\source\repos\Taskedin\Taskedin.Service\obj\Debug\net8.0\refint\Taskedin.Service.dll
+C:\Users\user\source\repos\Taskedin\Taskedin.Service\obj\Debug\net8.0\Taskedin.Service.pdb
+C:\Users\user\source\repos\Taskedin\Taskedin.Service\obj\Debug\net8.0\ref\Taskedin.Service.dll

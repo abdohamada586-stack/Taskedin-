@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Taskedin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8F2E26-FF9C-4D19-9450-A44669593833}|Taskedin\\Taskedin.csproj|c:\\users\\user\\source\\repos\\taskedin\\taskedin\\external\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8F2E26-FF9C-4D19-9450-A44669593833}|Taskedin\\Taskedin.csproj|solutionrelative:taskedin\\external\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C92E3F-E8F9-4F07-8E0C-87EA111DD793}|Taskedin.Service\\Taskedin.Service.csproj|c:\\users\\user\\source\\repos\\taskedin\\taskedin.service\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C92E3F-E8F9-4F07-8E0C-87EA111DD793}|Taskedin.Service\\Taskedin.Service.csproj|solutionrelative:taskedin.service\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8F2E26-FF9C-4D19-9450-A44669593833}|Taskedin\\Taskedin.csproj|c:\\users\\user\\source\\repos\\taskedin\\taskedin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8F2E26-FF9C-4D19-9450-A44669593833}|Taskedin\\Taskedin.csproj|solutionrelative:taskedin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C92E3F-E8F9-4F07-8E0C-87EA111DD793}|Taskedin.Service\\Taskedin.Service.csproj|c:\\users\\user\\source\\repos\\taskedin\\taskedin.service\\taskedin.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73C92E3F-E8F9-4F07-8E0C-87EA111DD793}|Taskedin.Service\\Taskedin.Service.csproj|solutionrelative:taskedin.service\\taskedin.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8F2E26-FF9C-4D19-9450-A44669593833}|Taskedin\\Taskedin.csproj|c:\\users\\user\\source\\repos\\taskedin\\taskedin\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8F2E26-FF9C-4D19-9450-A44669593833}|Taskedin\\Taskedin.csproj|solutionrelative:taskedin\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8F2E26-FF9C-4D19-9450-A44669593833}|Taskedin\\Taskedin.csproj|c:\\users\\user\\source\\repos\\taskedin\\taskedin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8F2E26-FF9C-4D19-9450-A44669593833}|Taskedin\\Taskedin.csproj|solutionrelative:taskedin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5F309E-D6C0-45D8-B842-E4AC040430A0}|Taskedin.Domain\\Taskedin.Domain.csproj|c:\\users\\user\\source\\repos\\taskedin\\taskedin.domain\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5F309E-D6C0-45D8-B842-E4AC040430A0}|Taskedin.Domain\\Taskedin.Domain.csproj|solutionrelative:taskedin.domain\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5F309E-D6C0-45D8-B842-E4AC040430A0}|Taskedin.Domain\\Taskedin.Domain.csproj|c:\\users\\user\\source\\repos\\taskedin\\taskedin.domain\\taskedin.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B5F309E-D6C0-45D8-B842-E4AC040430A0}|Taskedin.Domain\\Taskedin.Domain.csproj|solutionrelative:taskedin.domain\\taskedin.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5F309E-D6C0-45D8-B842-E4AC040430A0}|Taskedin.Domain\\Taskedin.Domain.csproj|c:\\users\\user\\source\\repos\\taskedin\\taskedin.domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5F309E-D6C0-45D8-B842-E4AC040430A0}|Taskedin.Domain\\Taskedin.Domain.csproj|solutionrelative:taskedin.domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8F2E26-FF9C-4D19-9450-A44669593833}|Taskedin\\Taskedin.csproj|c:\\users\\user\\source\\repos\\taskedin\\taskedin\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8F2E26-FF9C-4D19-9450-A44669593833}|Taskedin\\Taskedin.csproj|solutionrelative:taskedin\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C92E3F-E8F9-4F07-8E0C-87EA111DD793}|Taskedin.Service\\Taskedin.Service.csproj|c:\\users\\user\\source\\repos\\taskedin\\taskedin.service\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C92E3F-E8F9-4F07-8E0C-87EA111DD793}|Taskedin.Service\\Taskedin.Service.csproj|solutionrelative:taskedin.service\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5F309E-D6C0-45D8-B842-E4AC040430A0}|Taskedin.Domain\\Taskedin.Domain.csproj|c:\\users\\user\\source\\repos\\taskedin\\taskedin.domain\\models\\getprofilesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5F309E-D6C0-45D8-B842-E4AC040430A0}|Taskedin.Domain\\Taskedin.Domain.csproj|solutionrelative:taskedin.domain\\models\\getprofilesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5F309E-D6C0-45D8-B842-E4AC040430A0}|Taskedin.Domain\\Taskedin.Domain.csproj|c:\\users\\user\\source\\repos\\taskedin\\taskedin.domain\\entities\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5F309E-D6C0-45D8-B842-E4AC040430A0}|Taskedin.Domain\\Taskedin.Domain.csproj|solutionrelative:taskedin.domain\\entities\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8F2E26-FF9C-4D19-9450-A44669593833}|Taskedin\\Taskedin.csproj|c:\\users\\user\\source\\repos\\taskedin\\taskedin\\taskedin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E8F2E26-FF9C-4D19-9450-A44669593833}|Taskedin\\Taskedin.csproj|solutionrelative:taskedin\\taskedin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin\\External\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Taskedin\\External\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin\\External\\DependencyInjection.cs",
+              "RelativeToolTip": "Taskedin\\External\\DependencyInjection.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:12:39.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Taskedin.Service",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin.Service\\Taskedin.Service.csproj",
+              "RelativeDocumentMoniker": "Taskedin.Service\\Taskedin.Service.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin.Service\\Taskedin.Service.csproj",
+              "RelativeToolTip": "Taskedin.Service\\Taskedin.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-06T08:01:36.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin.Domain\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "Taskedin.Domain\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin.Domain\\Entities\\Department.cs",
+              "RelativeToolTip": "Taskedin.Domain\\Entities\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T13:12:27.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin\\Program.cs",
+              "RelativeDocumentMoniker": "Taskedin\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin\\Program.cs",
+              "RelativeToolTip": "Taskedin\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:46:31.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Taskedin\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Taskedin\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:26:06.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin.Domain\\Entities\\Profile.cs",
+              "RelativeDocumentMoniker": "Taskedin.Domain\\Entities\\Profile.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin.Domain\\Entities\\Profile.cs",
+              "RelativeToolTip": "Taskedin.Domain\\Entities\\Profile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T11:17:52.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin.Service\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Taskedin.Service\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin.Service\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "Taskedin.Service\\Services\\DepartmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T10:34:19.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Taskedin\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Taskedin\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T05:40:19.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetProfilesRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin.Domain\\Models\\GetProfilesRequest.cs",
+              "RelativeDocumentMoniker": "Taskedin.Domain\\Models\\GetProfilesRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin.Domain\\Models\\GetProfilesRequest.cs",
+              "RelativeToolTip": "Taskedin.Domain\\Models\\GetProfilesRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:03:37.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin.Domain\\Common\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Taskedin.Domain\\Common\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin.Domain\\Common\\ApiResponse.cs",
+              "RelativeToolTip": "Taskedin.Domain\\Common\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T06:15:04.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Taskedin\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Taskedin\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T05:37:02.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Taskedin.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin.Domain\\Taskedin.Domain.csproj",
+              "RelativeDocumentMoniker": "Taskedin.Domain\\Taskedin.Domain.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin.Domain\\Taskedin.Domain.csproj",
+              "RelativeToolTip": "Taskedin.Domain\\Taskedin.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-05T12:48:06.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin.Service\\Interfaces\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "Taskedin.Service\\Interfaces\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin.Service\\Interfaces\\IDepartmentService.cs",
+              "RelativeToolTip": "Taskedin.Service\\Interfaces\\IDepartmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T10:11:43.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Taskedin.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin\\Taskedin.csproj",
+              "RelativeDocumentMoniker": "Taskedin\\Taskedin.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Taskedin\\Taskedin\\Taskedin.csproj",
+              "RelativeToolTip": "Taskedin\\Taskedin.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-05T12:48:57.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
