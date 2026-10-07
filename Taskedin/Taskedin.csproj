@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Taskedin.Domain\Taskedin.Domain.csproj" />
+    <ProjectReference Include="..\Taskedin.Infrastructure\Taskedin.Infrastructure.csproj" />
     <ProjectReference Include="..\Taskedin.Service\Taskedin.Service.csproj" />
   </ItemGroup>
 

@@ -1,19 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.Extensions.DependencyInjection;
 using Taskedin.Service.Interfaces;
 using Taskedin.Service.Services;
 
-namespace Taskedin.External;
+namespace Taskedin.Service;
 
 public static class DependencyInjection
 {
-    public static IServiceCollection addServices
-        (
+    public static IServiceCollection AddServiceDependencies(
         this IServiceCollection services)
     {
         services.AddSingleton<IDepartmentService, DepartmentService>();

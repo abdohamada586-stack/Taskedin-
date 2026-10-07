@@ -73,9 +73,10 @@ namespace Taskedin.Service.Services
         public Task<List<Profile>> GetProfilesAsync(GetProfilesRequest request)
         {
             var profiles = _profiles
-                .Where(p => p.DepartmentId == request.DepartmentId)
-                .Where(p => !request.FromDate.HasValue || p.CreatedAt >= request.FromDate.Value)
-                .Where(p => !request.ToDate.HasValue || p.CreatedAt <= request.ToDate.Value)
+                .Where(p =>
+                    p.DepartmentId == request.DepartmentId &&
+                    (!request.FromDate.HasValue || p.CreatedAt >= request.FromDate.Value) &&
+                    (!request.ToDate.HasValue || p.CreatedAt <= request.ToDate.Value))
                 .Skip((request.PageNumber - 1) * request.PageSize)
                 .Take(request.PageSize)
                 .ToList();

@@ -1,8 +1,9 @@
 
-using Taskedin.Middlewares;
+using Taskedin.Infrastructure;
+using Taskedin.Infrastructure.Middlewares;
 using Taskedin.Service.Interfaces;
 using Taskedin.Service.Services;
-using Taskedin.External;
+using Taskedin.Service;
 
 
 namespace Taskedin
@@ -15,11 +16,11 @@ namespace Taskedin
 
             // Add services to the container.
             builder.Services.AddControllers();
-            builder.Services.addServices();
+            builder.Services.AddServiceDependencies();
 
 
-             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-             builder.Services.AddEndpointsApiExplorer();
+            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+            builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
