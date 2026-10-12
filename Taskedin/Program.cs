@@ -4,6 +4,7 @@ using Taskedin.Infrastructure.Middlewares;
 using Taskedin.Service;
 using Taskedin.Persistence;
 using Microsoft.EntityFrameworkCore;
+using Taskedin.Persistence.Context;
 
 namespace Taskedin
 {

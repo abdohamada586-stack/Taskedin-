@@ -68,11 +68,6 @@ public class DepartmentsController : ControllerBase
             Data = result
         });
     }
-    [HttpGet("test-error")]
-    public IActionResult TestError()
-    {
-        throw new Exception("TEST ERROR");
-    }
-
+   
 
 }

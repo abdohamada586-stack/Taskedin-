@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Taskedin.Domain.Entities;
 using Taskedin.Infrastructure.Models;
-using Taskedin.Persistence;
+using Taskedin.Persistence.Context;
 using Taskedin.Service.Interfaces;
 
 namespace Taskedin.Service.Services
