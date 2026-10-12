@@ -1,32 +1,41 @@
 
 using Taskedin.Infrastructure;
 using Taskedin.Infrastructure.Middlewares;
-using Taskedin.Service.Interfaces;
-using Taskedin.Service.Services;
 using Taskedin.Service;
-
+using Taskedin.Persistence;
+using Microsoft.EntityFrameworkCore;
 
 namespace Taskedin
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
             builder.Services.AddControllers();
             builder.Services.AddServiceDependencies();
+            builder.Services.AddPersistence(builder.Configuration);
 
-
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
+
+            // Test database connection
+            using (var scope = app.Services.CreateScope())
+            {
+                var db = scope.ServiceProvider
+                    .GetRequiredService<TaskedinDbContext>();
+
+                var canConnect = await db.Database.CanConnectAsync();
+
+                Console.WriteLine(
+                    $"UserManagementDb connected: {canConnect}");
+            }
+
             app.UseMiddleware<ExceptionHandlingMiddleware>();
 
-            // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();
@@ -34,9 +43,7 @@ namespace Taskedin
             }
 
             app.UseHttpsRedirection();
-
             app.UseAuthorization();
-
 
             app.MapControllers();
 

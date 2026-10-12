@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Taskedin.Domain.Entities;
-using Taskedin.Domain.Models;
+using Taskedin.Infrastructure.Models;
+
 
 
 namespace Taskedin.Service.Interfaces

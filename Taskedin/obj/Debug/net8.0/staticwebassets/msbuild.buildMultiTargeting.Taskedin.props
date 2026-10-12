@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Taskedin.props" />
-</Project>

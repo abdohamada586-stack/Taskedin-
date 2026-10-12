@@ -9,6 +9,7 @@
 	<ItemGroup>
 		<ProjectReference Include="..\Taskedin.Domain\Taskedin.Domain.csproj" />
 		<ProjectReference Include="..\Taskedin.Persistence\Taskedin.Persistence.csproj" />
+		<ProjectReference Include="..\Taskedin.Infrastructure\Taskedin.Infrastructure.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>

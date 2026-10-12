@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Taskedin.Domain.Entities;
-using Taskedin.Domain.Models;
+using Taskedin.Infrastructure.Models;
 using Taskedin.Service.Interfaces;
 using Taskedin.Domain.Common;
 

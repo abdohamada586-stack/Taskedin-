@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Taskedin.Domain.Models;
+namespace Taskedin.Infrastructure.Models;
 
 public class GetProfilesRequest
 {

@@ -9,7 +9,7 @@ public static class DependencyInjection
     public static IServiceCollection AddServiceDependencies(
         this IServiceCollection services)
     {
-        services.AddSingleton<IDepartmentService, DepartmentService>();
+        services.AddScoped<IDepartmentService, DepartmentService>();
 
         return services;
     }
