@@ -16,4 +16,10 @@
 		<FrameworkReference Include="Microsoft.AspNetCore.App" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <PackageReference Include="FluentValidation" Version="11.11.0" />
+	  <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.11.0" />
+	  <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.7.3" />
+	</ItemGroup>
+
 </Project>

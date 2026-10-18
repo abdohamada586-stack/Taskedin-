@@ -42,6 +42,7 @@ namespace Taskedin.Service.Services
             return true;
         }
 
+        // Returns one page of the department's profiles, optionally bounded by a creation date range.
         public async Task<List<Profile>> GetProfilesAsync(
             GetProfilesRequest request)
         {

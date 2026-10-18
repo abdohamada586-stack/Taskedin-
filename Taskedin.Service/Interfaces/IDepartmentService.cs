@@ -14,7 +14,15 @@ namespace Taskedin.Service.Interfaces
     {
         Task<Department> CreateAsync(Department department);
         Task<Department?> GetByIdAsync(int id);
+
+        /// <summary>
+        /// Updates the department name. Returns false when the department does not exist.
+        /// </summary>
         Task<bool> UpdateAsync(int id, Department department);
+
+        /// <summary>
+        /// Returns one page of profiles for a department, bounded by the optional date range.
+        /// </summary>
         Task<List<Profile>> GetProfilesAsync(GetProfilesRequest request);
     }
 }

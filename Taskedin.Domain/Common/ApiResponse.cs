@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Taskedin.Domain.Common;
 
+// Standard response envelope returned by every API endpoint.
 public class ApiResponse<T>
 {
     public bool Success { get; set; }

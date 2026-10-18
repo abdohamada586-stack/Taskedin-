@@ -56,6 +56,7 @@ public class DepartmentsController : ControllerBase
         });
     }
 
+    // Paged profiles for a department, optionally filtered by creation date.
     [HttpGet("{departmentId}/profiles")]
     public async Task<IActionResult> GetProfiles([FromQuery] GetProfilesRequest request)
     {
